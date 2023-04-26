@@ -1,2 +1,2 @@
 # Learning-curves-for-DRP
-Learning curves for the comparison of multiple modalities for anti-cancer drug response prediction (DRP) using neural networks and XGBoos
+Using learning curves for the comparison of multiple modalities performance at anti-cancer drug response prediction (DRP) with both neural networks and XGBoost 
