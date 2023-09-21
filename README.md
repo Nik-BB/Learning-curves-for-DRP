@@ -13,6 +13,8 @@ Within both the CLS38_phos_prot_RNA and CLS877_RNA_prot folders there is a noteb
 
 Both folders also contain the code used to create the learning curves with both Neural networks and XGBoost. The majority of the code needed for this is contained within Python scripts. The implementation of these scripts for each modality is given within notebooks. For example, phos_LTTfs_main_run_lc.ipynb implemnts these scripts to find the results needed to plot the phosphoproteomics learning curve. Therefore, following this notebook will take you through the steps I used in creating the phosphoproteomics learning curve. 
 
+See the [code usage tutorial](https://github.com/Nik-BB/Learning-curves-for-DRP/blob/main/code-usage-tutorial.pdf) in this GitHub repo for a pdf walkthrough of the code.
+
 ### Datasets
 The datasets need to run the analysis are publically available. 
 
