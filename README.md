@@ -21,7 +21,7 @@ For CLS38 this notebook is called UCL_plotting_phos_ect.ipynb. For CLS877 this n
 
 
 #### Re-training and testing the models 
-Both folders also contain the code used to train all of the models that are then used to create the learning curves with both Neural networks and XGBoost. The majority of the code needed for this is contained within Python scripts. The implementation of these scripts for each modality is given within notebooks. For example, phos_LTTfs_main_run_lc.ipynb implemnts these scripts to re-train the models used to plot the phosphoproteomics learning curve. Therefore, following this notebook will take you through the steps I used in traning the models for the phosphoproteomics learning curve. 
+Both folders also contain the code used to train all of the models that are then used to create the learning curves with both Neural networks and XGBoost. The code needed for this is contained within Python modules that I have created. The implementation of modules scripts for each modality is given within notebooks. For example, phos_LTTfs_main_run_lc.ipynb implemnts these scripts to train the models used to plot the phosphoproteomics learning curve. Therefore, following this notebook will take you through the steps used in traning the models for the phosphoproteomics learning curve. 
 
 See the [code usage tutorial](https://github.com/Nik-BB/Learning-curves-for-DRP/blob/main/code-usage-tutorial.pdf) in this GitHub repo for a pdf walkthrough of the code.
 
